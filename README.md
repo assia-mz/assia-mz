@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm assia</h1>
-<h3 align="center">A passionate cs student from France</h3>
+<h1 align="center">Hi, I'm assia</h1>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyassia" alt="kyassia" /></a> </p>
 
-- 🌱 I’m currently learning **docker, java for android studio and js**
+- 🌱 I’m currently learning, looking for a 36-month internship in application development.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
